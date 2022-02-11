@@ -1,5 +1,5 @@
 # Boot_Board
-made simple board website built with Bootstrap
+simple board website built with Bootstrap
 
 >구현 이미지
 
